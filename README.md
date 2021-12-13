@@ -32,3 +32,12 @@ Curso oferecido para a DIO sobre ETL utilizando a linguagem Python e as bibliote
 
 O processo de ETL é feito de modo a tornar os **dados íntegros, consistentes, válidos** para que a tomada de decisão final seja adequada e certeira.
 
+### Por que precisamos?
+Tudo começa a partir da necessidade de tomada de decisão dos gestores organizacionais.
+
+Como os gestores tomam uma decisão? analisando dados - eles relacionam dados para gerar informação útil a tomada de decisão.
+
+No entanto, como juntar dados de diferentes fontes de informação?
+Relacionar dados de ERP, CRM, sites, planilhas, e de outras fontes, de modo consistente, organizado e confiável para tomar decisão.
+
+Os dados podem ser extraídos em lotes (Batch) ou em tempo real. E após serem transformados serão carregados na base de dados de consolidação.
