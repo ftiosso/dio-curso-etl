@@ -62,5 +62,15 @@ Dentro do processo de
     * Data Loading
 * Data flow/Pipeline → segmentação do processo
 
+### Ferramentas
 
+#### Para saber mais
 
+* https://airflow.apache.org/
+* https://luigi.readthedocs.io/en/stable/
+* https://www.bonobo-project.org/
+* http://bubbles.databrewery.org/
+* https://petl.readthedocs.io/en/stable/
+* https://pandas.pydata.org/
+
+### Referências
