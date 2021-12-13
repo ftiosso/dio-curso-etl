@@ -41,3 +41,26 @@ No entanto, como juntar dados de diferentes fontes de informação?
 Relacionar dados de ERP, CRM, sites, planilhas, e de outras fontes, de modo consistente, organizado e confiável para tomar decisão.
 
 Os dados podem ser extraídos em lotes (Batch) ou em tempo real. E após serem transformados serão carregados na base de dados de consolidação.
+
+
+### Visão geral sobre ETL
+
+Dentro do processo de 
+
+<p align="center">
+  <img src="http://2.bp.blogspot.com/-dSnbfUATfoU/U7opdrbBKTI/AAAAAAAACkU/EAnBsiIyPaY/s1600/ETL-process-flow.jpeg" alt="etl process flow" width="600px" />
+</p>
+
+* Data Sources → as diferentes fontes de dados que armazenam os dados que vão ser extraídos e carregados para dentro do contexto da empresa (Data Warehouse, Data lake, ...)
+* Processo maior de ETL → Transformação:
+    * Data Validation 
+    * Data Cleaning
+    * Data Transforming
+    * Data Aggregating
+    * Data Summarization
+    * Data Normalization
+    * Data Loading
+* Data flow/Pipeline → segmentação do processo
+
+
+
